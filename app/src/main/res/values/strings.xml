@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OCR-test</string>
+    <string name="camera">Camera</string>
+    <string name="storage">Select From Storage</string>
+    <string name="takePhoto">Take a Photo</string>
+    <string name="clear">Clear</string>
+    <string name="copy_text">Copy text</string>
+</resources>
